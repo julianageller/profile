@@ -5,7 +5,7 @@ background-image: url("images/jellyfish2.gif");
 font-family: 'Montserrat', sans-serif;
 text-align: center;
 background-color: #FCFCFC;
-color: #FCFCFC;
+color: #B0E0E6;
 }
 
 h1 {
@@ -20,11 +20,19 @@ a {
 }
 
 a:hover {
-  background-color: #fcfcfc80;
+  background-color: #FF69B480;
 }
 
 a:visited {
   color: #FCFCFC80;
+}
+
+p {
+  color: #FCFCFC;
+}
+
+h2 {
+  color: #FCFCFC;
 }
 
 h3 {
@@ -63,24 +71,17 @@ h3 {
   height: auto;
 }
 
-#mint {
-  background-color: #BCEBCB80;
+
+#white {
+  background-color: #FCFCFC80;
 }
 
-#teal {
-  background-color: #7FE4AF80;
+#white-light {
+  background-color: #FCFCFC4D;
 }
 
-#sea-green {
-  background-color: #86CB9280;
-}
-
-#light-green {
-  background-color: #9FD69380;
-}
-
-#yellow {
-  background-color: #F3E37C80;
+#white-lighter {
+  background-color: #FCFCFC33;
 }
 
 .img-circle {
